@@ -1,3 +1,5 @@
+# Open Remote Sensing : MIST2023
+
 เอกสารประกอบการเรียน หัวข้อ Open Remote Sensing วิชา Modern Integrated Surveying Technology ภาคเรียนที่ 2 ปีการศึกษา 2565
 
 หัวข้อบรรยาย
@@ -11,5 +13,7 @@
 การประยุกต์ใช้ Google Earth Engine สำหรับการทำแบบจำลองความลึกชายฝั่งทะเล (Satellite Derived Bathymetry) และอื่นๆ
 
 เทพชัย ศรีน้อย
+
 ภาควิชาวิศวกรรมสำรวจ คณะวิศวกรรมศาสตร์
+
 จุฬาลงกรณ์มหาวิทยาลัย
