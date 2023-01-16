@@ -1,6 +1,6 @@
 # Open Remote Sensing : MIST2023
 
-เอกสารประกอบการเรียน หัวข้อ Open Remote Sensing วิชา Modern Integrated Surveying Technology ภาคเรียนที่ 2 ปีการศึกษา 2565
+เอกสารประกอบการเรียน หัวข้อ Open Remote Sensing วิชาเลือกสำหรับนิสิตชั้นปีที่ 4 2108-421 Modern Integrated Surveying Technology (MIST) ภาคเรียนที่ 2 ปีการศึกษา 2565
 
 ![image](https://user-images.githubusercontent.com/88705136/212613646-edb4ddda-c6f8-48d1-8085-c631730b0496.png)
 
