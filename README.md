@@ -2,6 +2,9 @@
 
 เอกสารประกอบการเรียน หัวข้อ Open Remote Sensing วิชา Modern Integrated Surveying Technology ภาคเรียนที่ 2 ปีการศึกษา 2565
 
+![image](https://user-images.githubusercontent.com/88705136/212613646-edb4ddda-c6f8-48d1-8085-c631730b0496.png)
+
+
 หัวข้อบรรยาย
 
 18 มกราคม 2565
