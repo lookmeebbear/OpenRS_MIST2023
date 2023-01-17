@@ -9,7 +9,11 @@
 
 แนะนำระบบ Google Earth Engine, การสืบค้นข้อมูลดาวเทียมเชิงทัศน์และเรดาร์, การประมวลค่าดัชนีพืชพรรณและน้ำ, การจำแนกสิ่งปกคลุมดินโดยเทคนิคการเรียนรู้ของเครื่อง การติดตามสถานการณ์น้ำท่วม และ การประยุกต์ใช้ Google Earth Engine สำหรับการทำแบบจำลองความลึกชายฝั่งทะเล (Satellite Derived Bathymetry) และอื่นๆ
 
-Google Earth Engine - javascript version https://code.earthengine.google.com/ python version (import ee) google colab https://colab.research.google.com/
+Google Earth Engine - javascript version https://code.earthengine.google.com/ 
 
+python version (import ee) google colab https://colab.research.google.com/
+
+
+thepchaisrinoi@gmail.com
 
 เทพชัย ศรีน้อย, ภาควิชาวิศวกรรมสำรวจ คณะวิศวกรรมศาสตร์ จุฬาลงกรณ์มหาวิทยาลัย 2566
