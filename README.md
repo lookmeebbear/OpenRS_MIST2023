@@ -13,6 +13,5 @@ Google Earth Engine - javascript version https://code.earthengine.google.com/
 
 python version (import ee) google colab https://colab.research.google.com/
 
-SDB Demo https://colab.research.google.com/drive/1CxJC-Yq2jZR3aIM09raZVgewIN0OWekJ?usp=sharing
 
 เทพชัย ศรีน้อย, ภาควิชาวิศวกรรมสำรวจ คณะวิศวกรรมศาสตร์ จุฬาลงกรณ์มหาวิทยาลัย 2566
